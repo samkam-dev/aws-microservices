@@ -1,0 +1,11 @@
+node_modules/
+*.log
+.env
+.DS_Store
+*.json
+!package.json
+!package-lock.json
+user-task.json
+product-task.json
+order-task.json
+trust-policy.json
